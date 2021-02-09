@@ -1,0 +1,87 @@
+================================
+Ver. 1809 (LTSC) (2020-06-22)
+================================
+
+Added Walkir@SweClockers Windows 10 Service Configurations
+
+
+================================
+Ver. 1809 (LTSC) (2019-12-12)
+================================
+
+Added Black Viper’s Windows 10 Service Configurations
+
+
+================================
+Ver. 1809 (LTSC) (2019-02-09)
+================================
+
+Removed "Write-Host Dissconnect from Ethernet"
+Removed "UnPin-App "Microsoft Edge"
+Removed "Uninstall default Microsoft applications"
+Removed "Uninstall default third party applications"
+Removed "Disable Xbox features"
+Removed "Restrict Windows Update P2P only to local network"
+Removed "Write-Host Unpin File Explorer from Taskbar"
+Removed "Write-Host Connect to Ethernet"
+Removed "Write-Host Hide Recycle Bin from Desktop"
+
+Added "Run with PowerShell" functionality
+Added "Small icons to Control Panel view"
+Added "File Delete Confirmation Dialog"
+Added "Remove Quick Acess from Explorer"
+Added "Remove Recycle Bin from Desktop"
+Added "Remove files immediately when deleted"
+Added "Remove JPEG-Compression for Wallpaper"
+Added "Disable Windows Services"
+Added "Disabling Activity History"
+Added "Disable Tailored Experiences"
+Added "Disable Shared Experiences"
+Added "Disable Windows Update automatic restart"
+Added "Disable Remote Assistance"
+Added "Disable Remote Desktop"
+Added "Disable Windows Search indexing service
+Updated Telemetry removing commands (2018-02-07)
+
+
+================================
+Ver. 1803 (2018-05-13)
+================================
+
+Added "Remove en-US Keyboard"
+
+
+================================
+Ver. 1709 (2018-03-16)
+================================
+
+Hide Taskbar Search button
+Hide Task View button
+Hide People button
+Hide Action Center
+Remove sv-SE Keyboard
+Remove en-GB Keyboard
+Disable Windows Defender
+Disable Windows Defender Cloud
+Add Windows Photo Viewer
+Disable Telemetry
+Disable Wi-Fi Sense
+Disable SmartScreen Filter
+Disable Web Search in Start Menu
+Disable Application suggestions and automatic installation
+Disable Background application access
+Disable Location Tracking
+Disable automatic Maps updates
+Disable Feedback
+Disable Advertising ID
+Disable Cortana
+Disable Error reporting
+Restrict Windows Update P2P only to local network
+Disable AutoLogger file and restrict directory
+Stop and disable Diagnostics Tracking Service
+Stop and disable WAP Push Service
+Show Task Manager details
+Hide 3D Objects from This PC
+Change Explorer view to This PC
+Remove Windows Default Printers
+Restart PC
